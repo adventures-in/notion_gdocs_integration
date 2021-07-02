@@ -13,6 +13,12 @@ Using:
 [Backend Setup](docs/backend_setup.md) including: 
   - Using Application Default Credentials
 
+### googleapis 
+
+- googleapis package + googleapis_auth to get an authenticated client 
+- enable cloud run api via Cloud Code extension -> creates default service account 
+- Google cloud console: enable Slides API 
+
 ## Running locally with Docker
 
 Run in a container with Docker:
